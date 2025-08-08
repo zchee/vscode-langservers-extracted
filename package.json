@@ -43,19 +43,19 @@
   "dependencies": {
     "@vscode/l10n": "^0.0.18",
     "core-js": "^3.20.1",
-    "jsonc-parser": "^3.2.1",
+    "jsonc-parser": "^3.3.1",
     "regenerator-runtime": "^0.13.9",
-    "request-light": "^0.7.0",
-    "semver": "^7.6.1",
+    "request-light": "^0.8.0",
+    "semver": "^7.7.2",
     "typescript": "^4.0.5",
-    "vscode-css-languageservice": "^6.2.14",
-    "vscode-html-languageservice": "^5.2.0",
-    "vscode-json-languageservice": "^5.3.11",
-    "vscode-languageserver": "^10.0.0-next.3",
-    "vscode-languageserver-textdocument": "^1.0.11",
+    "vscode-css-languageservice": "^6.3.7",
+    "vscode-html-languageservice": "^5.5.1",
+    "vscode-json-languageservice": "^5.6.1",
+    "vscode-languageserver": "^10.0.0-next.13",
+    "vscode-languageserver-textdocument": "^1.0.12",
     "vscode-languageserver-types": "^3.17.5",
     "vscode-markdown-languageservice": "^0.5.0-alpha.6",
     "vscode-nls": "^5.2.0",
-    "vscode-uri": "^3.0.8"
+    "vscode-uri": "^3.1.0"
   }
 }
