@@ -43,4 +43,3 @@ Object.entries(deps).forEach(([package, versions]) => {
     stdio: 'inherit'
   });
 });
-
